@@ -5,3 +5,9 @@ which sends all the data in real-time to the server, open the main file for info
 Individual stubs for all the sensors are provided.
 The wifi server program is contained in the WifiWebServer_tiva_shield folder and "Wifiutils" files.
 For Heart beat analysis, fourier transform is used, please find the library in Fix_FFT for 8-bit version of the FFT. 
+
+The explanation for the same can be seen here:
+https://youtu.be/jcv0xv_edSs
+
+The working can be seen here:
+https://youtu.be/ryU4mGXHzNU
